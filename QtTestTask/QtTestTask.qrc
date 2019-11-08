@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="QtTestTask">
+    <file>Resources/move-shift-861781.png</file>
+    <file>Resources/1608561.png</file>
+    <file>Resources/circle-png-circle-png-hd-1600.png</file>
+    <file>Resources/delete128.png</file>
+    <file>Resources/Editing-Line-icon.png</file>
+    <file>Resources/Editing-Rectangle-icon.png</file>
+    <file>Resources/location-arrow-512.png</file>
+    <file>Resources/Maushand.png</file>
+    <file>Resources/redo-1.png</file>
+    <file>Resources/undo-1-256x256.png</file>
+    <file>Resources/zoom_in_37748.png</file>
+    <file>Resources/zoomAll.png</file>
+    <file>Resources/zoom-out-85-795515.png</file>
+  </qresource>
+</RCC>

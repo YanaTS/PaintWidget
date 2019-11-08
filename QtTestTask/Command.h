@@ -3,7 +3,7 @@ class Command
 {
 public:
 	Command();
-	~Command();
+	virtual ~Command();
 	virtual void undo() = 0;
 	virtual void redo() = 0;
 };
